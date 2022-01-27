@@ -1,0 +1,73 @@
+body {
+  padding: 20px;
+  background-color: hsl(217, 54%, 11%);
+  font-family: "Montserrat", sans-serif;
+}
+/* es la carta*/
+#carta {
+  border-style: hidden;
+  border-radius: 8px;
+  border-color: hsl(216, 50%, 16%);
+  background-color: hsl(216, 50%, 16%);
+  margin-right: 500px;
+  margin-left: 500px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+  width: 270px;
+  height: 470px;
+  padding: 14px;
+}
+
+/*imagen nft*/
+.foto_nft {
+  width: 255px;
+  height: 250px;
+  border-radius: 8px;
+  margin: auto;
+}
+
+h1 {
+  color: hsl(0, 0%, 100%);
+  font-size: 20px;
+  font-weight: 300;
+}
+
+p {
+  color: hsl(215, 51%, 70%);
+  font-size: 15px;
+  font-weight: 400;
+}
+
+#logo_eth {
+  float: left;
+}
+#logo_reloj {
+  float: right;
+}
+
+.tiempo {
+  text-align: right;
+}
+
+h3 {
+  color: hsl(178, 100%, 50%);
+  font-size: 14px;
+  font-weight: 600;
+  text-indent: 5px;
+}
+
+#avatar {
+  width: 28px;
+  height: 28px;
+  float: left;
+}
+.creador {
+  text-indent: 5px;
+  vertical-align: middle;
+}
+
+
+.linea {
+  width: 100%;
+  border: 1px solid #ccc;
+}
